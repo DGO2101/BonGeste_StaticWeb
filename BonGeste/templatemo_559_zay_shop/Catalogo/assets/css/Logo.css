@@ -1,0 +1,5 @@
+.logo-img {
+    max-height: 100%;
+    width: auto; /* Para mantener la proporción de la imagen */
+    display: block; /* Para evitar espacios en blanco debajo de la imagen */
+}
